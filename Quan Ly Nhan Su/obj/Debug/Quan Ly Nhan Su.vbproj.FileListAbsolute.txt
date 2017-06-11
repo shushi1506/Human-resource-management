@@ -1,0 +1,44 @@
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.exe
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.pdb
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.xml
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmLogin.resources
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.Resources.resources
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.vbproj.GenerateResource.Cache
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.exe
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.xml
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.pdb
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmMain.resources
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmThongTin.resources
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmMainf.resources
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.UCNhanVien.resources
+C:\Users\shu-shi\Documents\Visual Studio 2013\Projects\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.exe.config
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.exe.config
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.exe
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.xml
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.pdb
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.exe
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.pdb
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.xml
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmLogin.resources
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmMain.resources
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmMainf.resources
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmThongTin.resources
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.Resources.resources
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.UCNhanVien.resources
+E:\tai lieu SV\visual basic\thực tập\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.vbproj.GenerateResource.Cache
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.exe.config
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.exe
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.xml
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.pdb
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.exe
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.pdb
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\bin\Debug\Quan Ly Nhan Su.xml
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmLogin.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmMain.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmMainf.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.frmThongTin.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.Resources.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.UCNhanVien.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan Ly Nhan Su.vbproj.GenerateResource.Cache
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.UCphongban.resources
+C:\Users\shu-shi\Documents\Quan Ly Nhan Su\Quan Ly Nhan Su\obj\Debug\Quan_Ly_Nhan_Su.UCtrinhdo.resources

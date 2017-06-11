@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C71E905-4C58-4EF4-A369-154C6A77435A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Quan_Ly_Nhan_Su.My.MyApplication</StartupObject>
+    <RootNamespace>Quan_Ly_Nhan_Su</RootNamespace>
+    <AssemblyName>Quan Ly Nhan Su</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Quan Ly Nhan Su.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Quan Ly Nhan Su.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connect.vb" />
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainf.Designer.vb">
+      <DependentUpon>frmMainf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTin.Designer.vb">
+      <DependentUpon>frmThongTin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NhanvienDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NhanvienDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UCNhanVien.Designer.vb">
+      <DependentUpon>UCNhanVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UCNhanVien.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCphongban.Designer.vb">
+      <DependentUpon>UCphongban.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UCphongban.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCtrinhdo.Designer.vb">
+      <DependentUpon>UCtrinhdo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UCtrinhdo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainf.resx">
+      <DependentUpon>frmMainf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTin.resx">
+      <DependentUpon>frmThongTin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCNhanVien.resx">
+      <DependentUpon>UCNhanVien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCphongban.resx">
+      <DependentUpon>UCphongban.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCtrinhdo.resx">
+      <DependentUpon>UCtrinhdo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="NhanvienDataSet.xsc">
+      <DependentUpon>NhanvienDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NhanvienDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NhanvienDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NhanvienDataSet.xss">
+      <DependentUpon>NhanvienDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\buttonItemTDL.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonItemCDL.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hóaĐơnDịchVụToolStripMenuItem.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoadon.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toolStripButtonKH.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonItemKH.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonItemDV.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phuongtienstrip.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonItemDD.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
